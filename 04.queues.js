@@ -1,9 +1,9 @@
 /***
  * BIG O of QUEUES
- * Insertion - 
- * Removal - 
- * Searching - 
- * Access - 
+ * Insertion - O(1)
+ * Removal - O(1)
+ * Searching - O(N)
+ * Access - O(N)
  */
 
 //LINKED LIST IMPLEMENTATION OF THE QUEUE DATASTRUCTURE
