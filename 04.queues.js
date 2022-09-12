@@ -51,3 +51,12 @@ class Queue {
         return tempNode.val;
     }
 }
+
+let q = new Queue();
+console.log(q.enqueue("FIRST")); //1
+console.log(q.enqueue("SECOND")); //2
+console.log(q.enqueue("THIRD")); //3
+console.log(q.dequeue()); //FIRST
+console.log(q.dequeue()); //SECOND
+console.log(q.dequeue()); //THIRD
+
