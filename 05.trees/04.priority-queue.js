@@ -1,4 +1,9 @@
 /**
+ * BIG O OF BINARY HEAPS
+ * Time Complexity -> Insertion - O(log N), Removal - O(log N)
+ */
+
+/**
  * Priority Queue Implementation Using a Heap
  * 
  * Pseudo Code
